@@ -1,7 +1,7 @@
 package chap06;
 
 import java.util.ArrayList;
-
+//commented
 public class DotComTesterNR_final {
 
     public static void main(String[] args) {
