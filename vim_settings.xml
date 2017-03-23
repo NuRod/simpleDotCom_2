@@ -15,10 +15,11 @@
       <file name="/fragment.java" timestamp="1490288252390">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="B:/work/proj/simpleDotCom_2/src/DotComTesterNR_final.java" timestamp="1490292786488">
-        <mark key="[" line="7" column="39" />
-        <mark key="]" line="7" column="39" />
-        <mark key="." line="7" column="39" />
+      <file name="B:/work/proj/simpleDotCom_2/src/DotComTesterNR_final.java" timestamp="1490294145394">
+        <mark key="[" line="75" column="8" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
       </file>
     </filemarks>
     <jumps />
@@ -44,6 +45,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
