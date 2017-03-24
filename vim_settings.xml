@@ -19,11 +19,12 @@
       <file name="/fragment.java" timestamp="1490320946452">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="B:/work/proj/simpleDotCom_2/src/DotComTesterNR_final.java" timestamp="1490324488938">
-        <mark key="[" line="48" column="52" />
-        <mark key="]" line="48" column="55" />
-        <mark key="." line="48" column="55" />
-        <mark key="^" line="48" column="55" />
+      <file name="B:/work/proj/simpleDotCom_2/src/DotComTesterNR_final.java" timestamp="1490326205621">
+        <mark key="i" line="100" column="112" />
+        <mark key="[" line="96" column="69" />
+        <mark key="]" line="96" column="69" />
+        <mark key="." line="96" column="69" />
+        <mark key="^" line="100" column="25" />
       </file>
     </filemarks>
     <jumps />
@@ -34,13 +35,13 @@
         dot.setLocationCells(locations);</text>
       </register>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text encoding="base64">KyB0ZXN0U3RyRXhwZWN0ZWQg</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">KyB0ZXN0U3RyRXhwZWN0ZWQg</text>
       </register>
     </registers>
     <search>
