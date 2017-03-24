@@ -9,6 +9,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="B:/work/proj/simpleDotCom_2/src/chap06/DotCom.java" timestamp="1490324681563">
+        <mark key="[" line="18" column="12" />
+      </file>
       <file name="B:/work/proj/simpleDotCom_2/src/Game.java" timestamp="1490320834374">
         <mark key="[" line="0" column="24" />
       </file>
@@ -16,10 +19,11 @@
       <file name="/fragment.java" timestamp="1490320946452">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="B:/work/proj/simpleDotCom_2/src/DotComTesterNR_final.java" timestamp="1490322396247">
-        <mark key="[" line="21" column="69" />
-        <mark key="]" line="21" column="69" />
-        <mark key="." line="21" column="69" />
+      <file name="B:/work/proj/simpleDotCom_2/src/DotComTesterNR_final.java" timestamp="1490324488938">
+        <mark key="[" line="48" column="52" />
+        <mark key="]" line="48" column="55" />
+        <mark key="." line="48" column="55" />
+        <mark key="^" line="48" column="55" />
       </file>
     </filemarks>
     <jumps />
@@ -30,28 +34,35 @@
         dot.setLocationCells(locations);</text>
       </register>
       <register name="&quot;" type="4">
-        <text>toString</text>
+        <text>d</text>
+      </register>
+      <register name=":" type="4">
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>toString</text>
+        <text>d</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>x</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
