@@ -2,12 +2,13 @@ package chap06;
 
 import java.util.ArrayList;
 
-public class DotCom {
-    private ArrayList<String> locArray;
-    private ArrayList<String> locationCells;
+public class DotCom{
+    //private ArrayList<String> locArray;
+    public ArrayList<String> locationCells;
 
-    public void DotCom(ArrayList<String> locArray)){
-        setLocationCells(locArray);
+    public DotCom(){}
+    public DotCom(DotCom Dcom){
+        this.locationCells = Dcom.locationCells;
     }
     public void setLocationCells(ArrayList<String> loc2)
     {
