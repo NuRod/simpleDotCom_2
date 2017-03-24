@@ -3,28 +3,37 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1490318382322">
+      <file name="/Dummy.txt" timestamp="1490321458608">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="B:/work/proj/simpleDotCom_2/src/Game.java" timestamp="1490318921182">
+      <file name="B:/work/proj/simpleDotCom_2/src/Game.java" timestamp="1490320834374">
         <mark key="[" line="0" column="24" />
       </file>
       <file name="B:/work/proj/simpleDotCom_2/src/DotCom.java" timestamp="1490292390935" />
-      <file name="/fragment.java" timestamp="1490288252390">
+      <file name="/fragment.java" timestamp="1490320946452">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="B:/work/proj/simpleDotCom_2/src/DotComTesterNR_final.java" timestamp="1490318905431" />
+      <file name="B:/work/proj/simpleDotCom_2/src/DotComTesterNR_final.java" timestamp="1490322396247">
+        <mark key="[" line="21" column="69" />
+        <mark key="]" line="21" column="69" />
+        <mark key="." line="21" column="69" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="4">
+        <text>toString());
+        System.out.println(&quot;\n* * * random number:&quot;+locations.get(2).toString());
+        dot.setLocationCells(locations);</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>package chap06;</text>
+        <text>toString</text>
       </register>
       <register name="-" type="4">
-        <text>package chap06;</text>
+        <text>toString</text>
       </register>
     </registers>
     <search>
