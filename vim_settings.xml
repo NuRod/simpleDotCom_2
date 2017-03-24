@@ -9,11 +9,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="B:/work/proj/simpleDotCom_2/src/chap06/DotCom.java" timestamp="1490327767225">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="3" column="0" />
+      <file name="B:/work/proj/simpleDotCom_2/src/chap06/DotCom.java" timestamp="1490330055949">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+        <mark key="^" line="9" column="28" />
       </file>
       <file name="B:/work/proj/simpleDotCom_2/src/Game.java" timestamp="1490320834374">
         <mark key="[" line="0" column="24" />
@@ -22,29 +22,44 @@
       <file name="/fragment.java" timestamp="1490320946452">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="B:/work/proj/simpleDotCom_2/src/DotComTesterNR_final.java" timestamp="1490327761297">
-        <mark key="i" line="102" column="112" />
-        <mark key="[" line="98" column="69" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="B:/work/proj/simpleDotCom_2/src/DotComTesterNR_final.java" timestamp="1490330156882">
+        <mark key="i" line="103" column="112" />
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="41" column="8" />
         <mark key="^" line="8" column="0" />
+        <mark key="." line="41" column="8" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgc2V0TG9jYXRpb25DZWxscyhBcnJheUxpc3Q8U3RyaW5nPiBsb2MyKQ==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGltcGxlbWVudHMgU2VyaWFsaXp7</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IGRvdCA9IG5ldyBEb3RDb20oKTsKICAgICAgICBEb3RDb20gZG90MiA9IGRvdDs=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgZG90ID0gbmV3IERvdENvbSgpOw==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgZG90LnNldExvY2F0aW9uQ2VsbHMobG9jYXRpb25zKTs=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgc2V0TG9jYXRpb25DZWxscyhsb2NBcnJheSk7</text>
+      </register>
+      <register name="6" type="4">
         <text>toString());
         System.out.println(&quot;\n* * * random number:&quot;+locations.get(2).toString());
         dot.setLocationCells(locations);</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>new</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text encoding="base64">IGltcGxlbWVudHMgU2VyaWFsaXp7</text>
       </register>
     </registers>
     <search>
