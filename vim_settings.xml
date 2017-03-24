@@ -3,14 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1490321458608">
+      <file name="/Dummy.txt" timestamp="1490327320686">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="B:/work/proj/simpleDotCom_2/src/chap06/DotCom.java" timestamp="1490324681563">
-        <mark key="[" line="18" column="12" />
+      <file name="B:/work/proj/simpleDotCom_2/src/chap06/DotCom.java" timestamp="1490327767225">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="B:/work/proj/simpleDotCom_2/src/Game.java" timestamp="1490320834374">
         <mark key="[" line="0" column="24" />
@@ -19,12 +22,12 @@
       <file name="/fragment.java" timestamp="1490320946452">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="B:/work/proj/simpleDotCom_2/src/DotComTesterNR_final.java" timestamp="1490326205621">
-        <mark key="i" line="100" column="112" />
-        <mark key="[" line="96" column="69" />
-        <mark key="]" line="96" column="69" />
-        <mark key="." line="96" column="69" />
-        <mark key="^" line="100" column="25" />
+      <file name="B:/work/proj/simpleDotCom_2/src/DotComTesterNR_final.java" timestamp="1490327761297">
+        <mark key="i" line="102" column="112" />
+        <mark key="[" line="98" column="69" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
     </filemarks>
     <jumps />
@@ -35,13 +38,13 @@
         dot.setLocationCells(locations);</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">KyB0ZXN0U3RyRXhwZWN0ZWQg</text>
+        <text>new</text>
       </register>
       <register name=":" type="4">
         <text>x</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KyB0ZXN0U3RyRXhwZWN0ZWQg</text>
+        <text>new</text>
       </register>
     </registers>
     <search>
