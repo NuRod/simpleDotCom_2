@@ -14,4 +14,7 @@
     </option>
     <option name="cloneParentDir" value="B:\work\proj" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="B:\work\proj\simpleDotCom_2" />
+  </component>
 </application>
