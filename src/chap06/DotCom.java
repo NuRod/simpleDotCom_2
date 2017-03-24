@@ -3,11 +3,15 @@ package chap06;
 import java.util.ArrayList;
 
 public class DotCom {
+    private ArrayList<String> locArray;
     private ArrayList<String> locationCells;
-    
-    public void setLocationCells(ArrayList<String> loc)
+
+    public void DotCom(ArrayList<String> locArray)){
+        setLocationCells(locArray);
+    }
+    public void setLocationCells(ArrayList<String> loc2)
     {
-        locationCells = loc;
+        locationCells = loc2;
     }
     
     public String checkYourself(String userInput)
@@ -16,6 +20,7 @@ public class DotCom {
         int index = locationCells.indexOf(userInput);
         if (index >= 0) {
             locationCells.remove(index);
+            System.out.println("\n....userInput "+userInput+" hit!....removing from array index:"+ Integer.toString(index));
             if (locationCells.isEmpty()) {
                 result = "kill";
             }
@@ -23,6 +28,8 @@ public class DotCom {
             {
                 result = "hit";
             }
+        }else {
+        System.out.println("ERROR searching index of string: "+ userInput);
         }
         return result;
     }
